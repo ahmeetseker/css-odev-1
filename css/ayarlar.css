@@ -1,0 +1,68 @@
+.fs-joan {
+    font-family: 'Joan', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .li-ort {
+    list-style-position:inside;
+} */
+
+.ul-ort {
+    text-align:center;
+}
+.li-ort {
+    display:inline-block;
+    display: inline;
+
+}
+.yazi-ort {
+    text-align: center;
+    color: black;
+  
+    font-family: 'Fascinate', cursive;
+
+}
+
+.yazi-ort a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.sayfa-renk {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.baslik-renk {
+    color: #4CACBC;
+}
+.altbaslik-renk {
+    color: #6CC4A1;
+}
+.altbaslik-renk2 {
+    color: #A0D995;
+}
+.h1font {
+    font-size:36px;
+}
+.yazisol {
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+/* sitede olması gerekenler
+
+    google font_ok
+    inline css
+    internal css
+    external css_ok
+    colorhunt renk paleti
+    
+*/ 
